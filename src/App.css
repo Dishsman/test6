@@ -1,0 +1,165 @@
+/* .fill{
+  background: rgb(88, 72, 72);
+  border: 0.025em solid black
+}
+.fill2{
+  background: blue; 
+  border: 0.025em solid black
+} */
+.bgWhite{
+background-color: white;
+}
+.bgPersonalInfo{
+background-color: #efefef;
+}
+.bg1column{
+background-color: #4e4e4e;
+}
+.bg2column{
+background-color: #3d3d3d;
+}
+
+.max{ height: 100%; width: 100%;
+}
+
+.main{
+  height: 50%; width: 100%; display: flex; flex-direction: row;
+}
+.topBar{
+ height: 33.33%; width: 100%;
+}
+
+
+.buttomBox{
+height: 80%; width: 33.33%; display: flex; flex-direction: row; margin: 2%;
+}
+.textBox{
+  font-size: 2vb; font-weight: bolder; color: black;
+  display: flex; flex-direction: column;
+  margin-left: 5%;
+  margin-top: 3.5%;
+}
+.textBoxSmall{
+  font-size: 1.25vb;
+  font-weight: 150;
+}
+
+.iconTime{
+  height: 23%; padding: 3%;
+}
+.iconPie{
+  height: 20%; padding: 3%;
+}
+.iconSetting{
+  height: 30%; 
+}
+
+
+
+
+
+.collumn{
+  height: 100%; width: 83.34%; display: flex; align-items: center; justify-content: flex-start;
+}
+.fontBig{
+  color: white; font-size: 3vb; margin-left: 3%; font-weight: bolder;
+}
+.fontSmall{
+  color: white; font-size: 1.75vb; margin-left: 3%;
+}
+
+
+.upperIcon{
+  height:100%; width: 16.66%; display: flex; align-items: center; justify-content: center; background-color: #454545;
+} 
+.upperIconImage{
+height: 50%; width: 60%
+}
+
+.icon{ height: 100%; width: 16.666%; background-color: #54bb9e; display: flex; align-items: center;  flex-direction: column;}
+.icon2{ height: 100%; width: 16.666%; background-color: #4099d9; display: flex; align-items: center; flex-direction: column;}
+.icon3{ height: 100%; width: 16.666%; background-color: #a45eb6; display: flex; align-items: center; flex-direction: column;}
+.icon4{ height: 100%; width: 16.666%; background-color: #ef8535; display: flex; align-items: center; flex-direction: column;}
+.icon5{ height: 100%; width: 16.666%; background-color:#ec5946 ; display: flex; align-items: center; flex-direction: column;}
+.icon6{ height: 100%; width: 16.666%; background-color: #e1ab3a; display: flex; align-items: center; flex-direction: column;}
+.iconImage{
+  height: 50%;width: 60%; margin-top: 7%;
+}
+.iconText{
+  color: white;
+  font-size: 2vb;
+  height: 50%;
+  margin-top: 3%;
+}
+
+/* .infoTittle{
+  font-size: 1.2vb; font-weight: bold; color: black; margin-top: 20%; display: flex; flex-direction: row;
+} */
+.infoTittle{
+  font-size: 1.2vb; font-weight: bold; color: black; height: 20%;
+  display: flex; flex-direction: row;
+}
+.info{
+  font-size: 1.2vb; color: black; display: flex; flex-direction: row; margin-left: 10%; width: 70%;
+}
+.infoTittleSize{ height: 10%; width: 10%;
+
+}
+
+.whiteText{
+  color: white;
+}
+.w80{
+  width:80%
+}
+/* .h200w200{
+  height: 200px; width: 200px;
+}
+.h100w100{
+  height: 100px; width: 100px;
+}
+.h25w25{
+  height: 25px; width: 25px;
+} */
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
